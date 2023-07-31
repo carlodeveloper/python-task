@@ -17,5 +17,3 @@ df = df.fillna(0).to_string()
 # in all the groups formed.
 
 print(df)
-
-# gk.first()
