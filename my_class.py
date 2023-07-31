@@ -11,7 +11,7 @@ df = df.fillna(0).to_string()
 
 # applying groupby() function to
 # group the data on team value.
-gk = df.groupby('Master')
+# gk = df.groupby('Master')
 
 # print the first entries
 # in all the groups formed.
